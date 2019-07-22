@@ -3,7 +3,7 @@
 # Data Structures 
 
 Topics:
- * Queues
+ * [ x ] Queues
  * Doubly Linked Lists
  * Binary Search Trees
  * Heaps
